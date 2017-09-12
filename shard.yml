@@ -1,0 +1,13 @@
+name: casual
+version: 0.1.0
+
+authors:
+  - April Mulvey <aprilm@criticalmass.com>
+
+targets:
+  casual:
+    main: src/casual.cr
+
+crystal: 0.23.1
+
+license: MIT
